@@ -10,7 +10,7 @@
     Sou formado no Ensino Médio integrado ao curso técnico em Análise e Desenvolvimento de Sistemas.
   </p>
   <p>
-    Atualmente, estou cursando o ensino superior em Desenvolvimento de Software Multiplataforma, com foco em desenvolvimento web e mobile, modelagem e gestão de bancos de dados, além de aplicações voltadas à Internet das Coisas (IoT), visando a construção de soluções modernas, eficientes e escaláveis.
+    Atualmente, estou cursando o ensino superior em Desenvolvimento de Software Multiplataforma, com foco em desenvolvimento web e mobile, modelagem e gestão de bancos de dados, além de aplicaações visando a construção de soluções modernas, eficientes e escaláveis.
   </p>
   <p>
     Possuo nível intermediário em inglês e espanhol, o que me permite acompanhar conteúdos técnicos 
