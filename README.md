@@ -23,7 +23,7 @@
     <li>Proatividade</li>
     <li>Organização</li>
     <li>Responsabilidade</li>
-    <li>Lideran</li>
+    <li>Liderança</li>
   </ul>
 
   <h2 style="color: #38bdf8;">⚙️ Hard Skills</h2>
